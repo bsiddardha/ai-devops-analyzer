@@ -1,7 +1,13 @@
 fastapi
 uvicorn
+pydantic
+
 sentence-transformers
 faiss-cpu
-sqlalchemy
-pydantic
-python-multipart
+numpy
+
+groq
+
+python-dotenv
+
+requests
