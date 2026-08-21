@@ -1,4 +1,4 @@
-# 🧠 AI DevOps Analyzer
+# 🧠 AI Logs Analyzer
 
 AI-powered log analysis platform that helps DevOps engineers identify failures, root causes, severity levels, and recommended fixes from application logs.
 
