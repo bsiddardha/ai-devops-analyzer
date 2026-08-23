@@ -291,4 +291,6 @@ The embedding model may need to download on the first run. Subsequent runs will 
 
 **B Siddardha**
 
+https://ai-logs-analyzer.vercel.app/
+
 
