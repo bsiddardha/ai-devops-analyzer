@@ -14,7 +14,6 @@ AI-powered log analysis platform that helps DevOps engineers identify failures, 
 * FastAPI REST API
 * Interactive web interface
 * Docker support
-* Docker Compose support
 * GitHub Actions CI/CD pipeline
 * Docker Hub deployment
 
@@ -62,8 +61,6 @@ FastAPI Backend
 ### DevOps
 
 * Docker
-* Docker Compose
-* GitHub Actions
 * Docker Hub
 
 ---
@@ -90,7 +87,6 @@ ai-devops-analyzer/
 │   └── workflows/
 │
 ├── Dockerfile
-├── docker-compose.yml
 ├── requirements.txt
 ├── .env
 └── README.md
@@ -190,27 +186,6 @@ http://localhost:8000
 
 ---
 
-## 🐳 Docker Compose
-
-### Start Application
-
-```bash
-docker compose up --build
-```
-
-### Run in Background
-
-```bash
-docker compose up -d
-```
-
-### Stop Application
-
-```bash
-docker compose down
-```
-
----
 
 ## 🔄 CI/CD Pipeline
 
